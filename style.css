@@ -19,4 +19,12 @@
     height: 50px;
     width: 100%;
 }
+.border {
+    border: 1.5px solid transparent;
+}
+
+.border:hover {
+    border : 1.5px solid white
+}
+
 
