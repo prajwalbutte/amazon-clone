@@ -89,3 +89,13 @@
     color: #0f1111;
 }
 
+/**Box 4**/
+span{
+    font-size: 0.75rem;
+}
+
+.nav-second{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
