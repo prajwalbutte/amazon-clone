@@ -89,6 +89,9 @@
     color: #0f1111;
 }
 
+.nav-search :hover{
+    border : 2px solid orange;
+}
 /**Box 4**/
 span{
     font-size: 0.75rem;
