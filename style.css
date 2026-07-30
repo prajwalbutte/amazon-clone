@@ -141,3 +141,11 @@ span{
 }
 
 
+/**Hero Section**/
+.hero-section{
+    background-image: url("hero_image.jpg");
+    background-size: cover;
+    height: 600px;
+}
+
+
