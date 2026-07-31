@@ -257,3 +257,24 @@ ul {
     height: 50px;
     width: 100px;
 }
+
+.foot-panel4{
+    background-color:  #0f1111;
+    color: white;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    height: 80px;
+    text-align: center;
+    font-size: 0.7rem;
+}
+
+.pages{
+    padding-top: 25px;
+
+}
+
+.copyright{
+    padding-top: 5px;
+
+}
